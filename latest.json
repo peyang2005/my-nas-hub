@@ -1,1 +1,7 @@
+{
+    "version": "2.3.0",
+    "download_url": "https://github.com/peyang2005/my-nas-hub/releases/download/v2.3.0/MyNASHub_Setup.exe",
+    "release_notes": "v2.3.0の変更点:\n- 自動更新機能を追加\n- バージョン表示を動的に変更",
+    "release_date": "2026-01-18"
+}
 
