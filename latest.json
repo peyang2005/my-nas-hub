@@ -1,6 +1,6 @@
 {
-    "version": "2.4.0",
-    "download_url": "https://github.com/peyang2005/my-nas-hub/releases/download/v2.4.0/MyNASHub_Setup.exe",
-    "release_notes": "v2.4.0の変更点:\n- 自動更新のダウンロード先をDownloadsフォルダに変更\n- インストーラーの実行をより確実に",
+    "version": "2.4.5",
+    "download_url": "https://github.com/peyang2005/my-nas-hub/releases/download/v2.4.5/MyNASHub_Setup.exe",
+    "release_notes": "v2.4.5の変更点:\n- 自動更新のダウンロード先をDownloadsフォルダに変更\n- インストーラーの自動実行を改善",
     "release_date": "2026-01-21"
 }
